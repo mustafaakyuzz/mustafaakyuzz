@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mustafaakyuzz_" target="blank"><img src="https://img.shields.io/twitter/follow/mustafaakyuzz_?logo=twitter&style=for-the-badge" alt="mustafaakyuzz_" /></a> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **akyuz.mustafa@outlook.com.tr**
 
