@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mustafa Akyüz
 
-### Computer Engineering Student
+### Fresh Graduate Computer Engineer
 
-- 🌱 I'm currently learning **Spring Microservices**
+- 🌱 I'm currently learning **Microservices Technologies**
 - 📫 [akyuz.mustafa@outlook.com.tr](mailto:akyuz.mustafa@outlook.com.tr)
 
 ### Connect with me:
