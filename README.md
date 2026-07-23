@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mustafa Akyüz
 
-### Fresh Graduate Computer Engineer
+### Junior Software Developer
 
 - 🌱 I'm currently learning **Microservices Technologies**
 - 📫 [akyuz.mustafa@outlook.com.tr](mailto:akyuz.mustafa@outlook.com.tr)
